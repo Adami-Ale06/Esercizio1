@@ -1,0 +1,5 @@
+esercizio1
+che comando usi per inizializzare una nuova repository Git in una cartella?
+come aggiungi un file alstage prima di fare il commit?
+come fai a a salvare lòe modifiche nel repository locale ?
+come controlli lo stato del file nel tuo repository?
